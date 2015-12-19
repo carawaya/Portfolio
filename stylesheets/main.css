@@ -128,13 +128,15 @@ h1 {
 article p {
   color: aliceblue;
 }
+h2 {
+  color: aliceblue;
+}
 
 article {
   text-align: center;
   float: right;
   width: 75%;
   background-color: coral;
-  color: gray;
 }
 article li {
   list-style-type: none;
